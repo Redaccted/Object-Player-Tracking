@@ -7,9 +7,13 @@ The Object/Player Tracking plugin is designed to simplify and streamline the pro
 # How To Set Up  
 Once the files have been downloaded, add the plugin to the "Plugins" folder in Unreal Engine project directory.  
 You can they go to the your "Actor" blueprint and "Components" window  "Add" and insert **Tracking Components**.  
-**Player Tracking Nodes** 
+  
+**Player Tracking Nodes**  
+  
 "Begin Track Player Event"  
 "End Track Player Event"  
-**Object Tracking Nodes"  
+  
+**Object Tracking Nodes**  
+  
 "Begin Track Actor Event"  
 "End Track Actor Event"
