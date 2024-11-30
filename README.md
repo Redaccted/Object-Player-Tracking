@@ -5,4 +5,4 @@
 # Introduction  
 The Object/Player Tracking plugin is designed to simplify and streamline the process of enabling an object to follow or target a player or another object in real time within Unreal Engine.  
 # How To Set Up  
-Add the
+After downloading the files add the plugin to the "Plugins" folder in Unreal Engine project directory.  
