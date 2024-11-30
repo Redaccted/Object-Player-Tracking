@@ -13,7 +13,11 @@ You can they go to the your "Actor" blueprint and "Components" window  "Add" and
 "Begin Track Player Event"  
 "End Track Player Event"  
   
+  ![Actor Nodes](https://github.com/user-attachments/assets/ec8d67b1-85ca-442d-b365-3346579b2e71)
+
 **Object Tracking Nodes**  
   
 "Begin Track Actor Event"  
-"End Track Actor Event"
+"End Track Actor Event"  
+  
+![PlayerNodes](https://github.com/user-attachments/assets/85d8a865-61d5-4795-909d-1182ce618ea9)
